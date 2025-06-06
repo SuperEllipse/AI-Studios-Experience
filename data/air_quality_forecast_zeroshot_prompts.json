@@ -1,0 +1,14 @@
+[
+  {
+    "Prompt": "You are an advanced forecasting system tasked with predicting daily air quality for New Delhi.\nThe data includes daily mean values for 'value' (in \u00b5g/m\u00b3).\n\n### Historical Data (from 2023-12-23 to 2024-01-01):\n| Date       | Value (\u00b5g/m\u00b3) |\n|------------|---------------|\n| 2023-12-23 | 301.43 |\n| 2023-12-24 | 280.43 |\n| 2023-12-25 | 228.87 |\n| 2023-12-26 | 247.39 |\n| 2023-12-27 | 273.13 |\n| 2023-12-28 | 231.43 |\n| 2023-12-29 | 279.87 |\n| 2023-12-30 | 301.17 |\n| 2023-12-31 | 259.57 |\n| 2024-01-01 | 185.00 |\n\n### Instructions:\n1. Forecast daily mean 'value' for each day from 2024-01-02 to 2024-01-03.\n2. Provide output as a table:\n| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|",
+    "Completion": "| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|"
+  },
+  {
+    "Prompt": "You are an advanced forecasting system tasked with predicting daily air quality for Mumbai.\nThe data includes daily mean values for 'value' (in \u00b5g/m\u00b3).\n\n### Historical Data (from 2023-12-23 to 2024-01-01):\n| Date       | Value (\u00b5g/m\u00b3) |\n|------------|---------------|\n| 2023-12-23 | 103.00 |\n| 2023-12-24 | 96.78 |\n| 2023-12-25 | 89.43 |\n| 2023-12-26 | 123.83 |\n| 2023-12-27 | 112.65 |\n| 2023-12-28 | 144.65 |\n| 2023-12-29 | 120.61 |\n| 2023-12-30 | 120.65 |\n| 2023-12-31 | 95.35 |\n| 2024-01-01 | 101.00 |\n\n### Instructions:\n1. Forecast daily mean 'value' for each day from 2024-01-02 to 2024-01-03.\n2. Provide output as a table:\n| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|",
+    "Completion": "| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|"
+  },
+  {
+    "Prompt": "You are an advanced forecasting system tasked with predicting daily air quality for Chennai.\nThe data includes daily mean values for 'value' (in \u00b5g/m\u00b3).\n\n### Historical Data (from 2023-12-23 to 2024-01-01):\n| Date       | Value (\u00b5g/m\u00b3) |\n|------------|---------------|\n| 2023-12-23 | 85.35 |\n| 2023-12-24 | 72.70 |\n| 2023-12-25 | 46.87 |\n| 2023-12-26 | 46.96 |\n| 2023-12-27 | 44.96 |\n| 2023-12-28 | 37.00 |\n| 2023-12-29 | 34.09 |\n| 2023-12-30 | 48.43 |\n| 2023-12-31 | 78.35 |\n| 2024-01-01 | 78.00 |\n\n### Instructions:\n1. Forecast daily mean 'value' for each day from 2024-01-02 to 2024-01-03.\n2. Provide output as a table:\n| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|",
+    "Completion": "| Date       | Predicted Value (\u00b5g/m\u00b3) |\n|------------|-------------------------|"
+  }
+]
